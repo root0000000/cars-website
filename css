@@ -1,0 +1,47 @@
+.banner {
+    text-align: right;
+    justify-content: flex-end;
+    background-color: #45517D;
+    font-size: 120%;
+    height: 60px;
+    color: white;
+}
+.left {
+    justify-content: flex-end;
+    background-color: #61B2EC;
+
+}
+.right {
+    background-color: #8EC9F2;
+
+}
+.foot {
+    background-color: #45517D;
+    color: white;
+    
+}
+.a {
+    width: 1000px;
+    padding-left: 200px;
+}
+.b {
+    width: 1000px;
+}
+.c {
+    text-align: end;
+    padding-right: 200px;
+}
+.table {
+    width: 100%;
+}
+a:link {
+    color: orange
+
+}
+a.visited {
+    color: green;
+}
+.leftright {
+    display: grid;
+    grid-template-columns: 40% 60%;
+}
